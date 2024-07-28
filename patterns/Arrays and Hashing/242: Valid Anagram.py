@@ -1,10 +1,10 @@
-'''
+"""
 https://leetcode.com/problems/valid-anagram/description/
 Problem ID: 242
 Problem Name: Valid Anagram
 Problem Type: Arrays and Hashing
 Difficulty: Easy
-'''
+"""
 
 """
 Problem Description:
